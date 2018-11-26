@@ -1,0 +1,71 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.contain{
+	height: 150px;
+	width: 300px;
+	border: 1px solid #d9d9d9;
+	border-radius:10px;
+	position: absolute;
+	top: 100px;
+	left: 400px;
+}
+.contain h3{
+	background: #f2f2f2;
+	font-size: 18px;
+	text-align: center;
+	padding: 10px 0px;
+}
+.contain p{
+	padding: 20px 0px;
+	text-align: center;
+}
+.footer_sure{
+	text-align: center;
+	border: 1px solid #D9D9D9;
+	border-radius:10px ;
+	width: 60px;
+	height: 20px;
+	margin: 0px auto;
+	background: #D9D9D9;
+	cursor: pointer;
+}
+.addconfirm{
+	height: 150px;
+	width: 300px;
+	border: 1px solid #d9d9d9;
+	border-radius:10px;
+	position: absolute;
+	top: 100px;
+	left: 400px;
+}
+.addconfirm h3{
+	background: #f2f2f2;
+	font-size: 18px;
+	text-align: center;
+	padding: 10px 0px;
+}
+.addconfirm p{
+	padding: 20px 0px;
+	text-align: center;
+}
+.juage{
+	margin-left: 50px;
+}
+.cancle,.sure{
+	text-align: center;
+	border: 1px solid #D9D9D9;
+	border-radius:10px ;
+	width: 70px;
+	height: 20px;
+	margin: 0px 15px;
+	background: #D9D9D9;
+	display: inline-block;
+	cursor: pointer;
+}
+.div1 button{
+	margin: 10px;
+}
+
